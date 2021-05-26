@@ -12,6 +12,7 @@ export default {
     regionName: Boolean,
     className: String,
     shortCodeDropdown: Boolean,
+    autocomplete: Boolean,
     placeholder: {
       type: String,
       default: 'Select Region'
